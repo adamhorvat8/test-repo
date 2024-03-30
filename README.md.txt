@@ -1,1 +1,2 @@
-Novi file za git
+Novi file za git 
+Napravite neku izmenu
